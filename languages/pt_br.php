@@ -428,7 +428,13 @@ www.amigodacultura.com.br" ,
 	 'event_manager:action:event:edit:error'  =>  "Erro ao salvar o evento" , 
 	 'event_manager:action:event:delete:error'  =>  "Erro ao deletar o evento" , 
 	 'event_manager:confirm:sitetakeover:access'  =>  "Este evento irá definir seu acesso ao local" , 
-	 'less'  =>  "Menos" , 	 
+	 'less'  =>  "Menos" ,
+	
+	 'event_manager:event_day:title'=>'Dia do evento 1',
+	 'event_manager:event_day:description'=>'Descrição',
+	 'event_manager:event_slot:title'=>'Título da atividade',
+	 'event_manager:event_slot:description'=>'Descrição da atividade',
+		
 ); 
 
 add_translation('pt_br', $portugues_brasileiro); 

@@ -137,8 +137,8 @@
 		$eventDays = $event->getEventDays();
 		if($with_program && !$eventDays) {
 			$eventDay = new EventDay();
-			$eventDay->title			= 'Event day 1';
-			$eventDay->description		= 'Description';
+			$eventDay->title			= elgg_echo('event_manager:event_day:title');
+			$eventDay->description		= elgg_echo('event_manager:event_day:description');
 			$eventDay->container_guid	= $event->getGUID();
 			$eventDay->owner_guid		= $event->getGUID();
 			$eventDay->access_id 		= $event->access_id;
@@ -147,8 +147,8 @@
 			$eventDay->addRelationship($event->getGUID(), 'event_day_relation');
 			
 			$eventSlot = new EventSlot();
-			$eventSlot->title			= 'Activity title';
-			$eventSlot->description		= 'Activity description';
+			$eventSlot->title			= elgg_echo('event_manager:event_slot:title');
+			$eventSlot->description		= elgg_echo('event_manager:event_slot:description');
 			$eventSlot->container_guid	= $event->container_guid;
 			$eventSlot->owner_guid		= $event->owner_guid;
 			$eventSlot->access_id 		= $event->access_id;

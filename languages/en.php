@@ -310,6 +310,11 @@ Someone signed off from the '%s' event. You are moved from the waiting list to a
 		'approve' => 'Approve',	
 		'disapprove' => 'Disapprove',	
 		'requiredfields' => 'Required fields',
+			
+		'event_manager:event_day:title'=>'Event day 1',
+		'event_manager:event_day:description'=>'Description',
+		'event_manager:event_slot:title'=>'Activity title',		
+		'event_manager:event_slot:description'=>'Activity description',		
 	);
 	
 	add_translation('en', $english);
