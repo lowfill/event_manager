@@ -20,7 +20,7 @@ $portugues_brasileiro = array(
 	 
 	 'event_manager:sidebar:title'  =>  "Exibindo agora" , 
 	 
-	 'river:comment:object:event'  =>  "s% comentou sobre% s" , 
+	 'river:comment:object:event'  =>  "%s comentou sobre %s" , 
 	 
 	 'event_manager:list:title'  =>  "Eventos" , 
 	 'event_manager:list:searchevents'  =>  "Pesquisar eventos" , 
