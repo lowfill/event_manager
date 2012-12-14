@@ -126,179 +126,179 @@ $portugues_brasileiro = array(
 	 'event_manager:event:registration:notification:owner:subject'  =>  "Registro de eventos" , 
 	 'event_manager:event:registration:notification:user:subject'  =>  "Registro de eventos" , 
 	 
-	 'event_manager:event:registration:notification:owner:text:html:event_attending'  =>  "Olá % s, 
+	 'event_manager:event:registration:notification:owner:text:html:event_attending'  =>  "Olá %s, 
 
-% s inscreveu como 'participante' do seu evento: '% s'.
+%s inscreveu como 'participante' do seu evento: '%s'.
 
 Amigo da Cultura
 www.amigodacultura.com.br" , 
 	 'event_manager:event:registration:notification:owner:text:event_attending'  =>  "Olá %s, 
 
-% s inscreveu como 'participante' do seu evento: '% s' .
+%s inscreveu como 'participante' do seu evento: '%s' .
 
 Amigo da Cultura
 www.amigodacultura.com.br" , 
-	 'event_manager:event:registration:notification:user:text:html:event_attending'  =>  "Olá % s, 
+	 'event_manager:event:registration:notification:user:text:html:event_attending'  =>  "Olá %s, 
 
-Você inscreveu-se com sucesso como 'participante' do evento: '% s'.
-
-Amigo da Cultura
-www.amigodacultura.com.br" , 
-	 'event_manager:event:registration:notification:user:text:event_attending'  =>  "Olá % s, 
-
-Você inscreveu-se com sucesso como 'participante' do evento: '% s'.
+Você inscreveu-se com sucesso como 'participante' do evento: '%s'.
 
 Amigo da Cultura
 www.amigodacultura.com.br" , 
-	 'event_manager:event:registration:notification:owner:text:html:event_waitinglist'  =>  "Olá % s, 
+	 'event_manager:event:registration:notification:user:text:event_attending'  =>  "Olá %s, 
 
-%s está na lista de espera para o seu evento: '% s'.
-
-Amigo da Cultura
-www.amigodacultura.com.br" , 
-	 'event_manager:event:registration:notification:owner:text:event_waitinglist'  =>  "Olá % s,
-
- %s está na lista de espera para o seu evento: '% s'.
+Você inscreveu-se com sucesso como 'participante' do evento: '%s'.
 
 Amigo da Cultura
 www.amigodacultura.com.br" , 
-	 'event_manager:event:registration:notification:user:text:html:event_waitinglist'  =>  "Olá % s, 
+	 'event_manager:event:registration:notification:owner:text:html:event_waitinglist'  =>  "Olá %s, 
 
-Você agora está na lista de espera para o evento:  '% s'.
-
-Amigo da Cultura
-www.amigodacultura.com.br" , 
-	 'event_manager:event:registration:notification:user:text:event_waitinglist'  =>  "Olá % s, 
-
-Você agora está na lista de espera para o evento: '% s'.
+%s está na lista de espera para o seu evento: '%s'.
 
 Amigo da Cultura
 www.amigodacultura.com.br" , 
-	 'event_manager:event:registration:notification:owner:text:html:event_exhibiting'  =>  "Olá % s, 
+	 'event_manager:event:registration:notification:owner:text:event_waitinglist'  =>  "Olá %s,
 
-% s inscreveu como \"promoter\" do seu evento: '% s'.
-
-Amigo da Cultura
-www.amigodacultura.com.br" , 
-	 'event_manager:event:registration:notification:owner:text:event_exhibiting'  =>  "Olá % s,
-
- % s  inscreveu como \"promoter\" do seu evento: '% s'.
+ %s está na lista de espera para o seu evento: '%s'.
 
 Amigo da Cultura
 www.amigodacultura.com.br" , 
-	 'event_manager:event:registration:notification:user:text:html:event_exhibiting'  =>  "Olá % s, 
+	 'event_manager:event:registration:notification:user:text:html:event_waitinglist'  =>  "Olá %s, 
 
-Você inscreveu-se com sucesso como \"promoter\" do evento: '% s'.
-
-Amigo da Cultura
-www.amigodacultura.com.br" , 
-	 'event_manager:event:registration:notification:user:text:event_exhibiting'  =>  "Olá % s, 
-
-Você inscreveu-se com sucesso como \"promoter\" do evento: '% s'.
+Você agora está na lista de espera para o evento:  '%s'.
 
 Amigo da Cultura
 www.amigodacultura.com.br" , 
-	 'event_manager:event:registration:notification:owner:text:html:event_organizing'  =>  "Olá % s, 
+	 'event_manager:event:registration:notification:user:text:event_waitinglist'  =>  "Olá %s, 
 
-s% se inscreveu como \"produtor\" do evento: '% s'.
-
-Amigo da Cultura
-www.amigodacultura.com.br" , 
-	 'event_manager:event:registration:notification:owner:text:event_organizing'  =>  "Olá % s, 
-
-s% se inscreveu como \"produtor\" do seu evento: '% s'.
+Você agora está na lista de espera para o evento: '%s'.
 
 Amigo da Cultura
 www.amigodacultura.com.br" , 
-	 'event_manager:event:registration:notification:user:text:html:event_organizing'  =>  "Olá % s, 
+	 'event_manager:event:registration:notification:owner:text:html:event_exhibiting'  =>  "Olá %s, 
 
-Você inscreveu-se com sucesso como \"produtor\" do evento: '% s'.
-
-Amigo da Cultura
-www.amigodacultura.com.br" , 
-	 'event_manager:event:registration:notification:user:text:event_organizing'  =>  "Olá % s, 
-
-Você inscreveu-se com sucesso como \"produtor\" do evento: '% s'.
+%s inscreveu como \"promoter\" do seu evento: '%s'.
 
 Amigo da Cultura
 www.amigodacultura.com.br" , 
-	 'event_manager:event:registration:notification:owner:text:html:event_presenting'  =>  "Olá % s, 
+	 'event_manager:event:registration:notification:owner:text:event_exhibiting'  =>  "Olá %s,
 
-% s inscreveu-se como 'fã' do seu evento: '% s'.
-
-Amigo da Cultura
-www.amigodacultura.com.br" , 
-	 'event_manager:event:registration:notification:owner:text:event_presenting'  =>  "Olá % s, 
-
-% s inscreveu-se como 'fã' do seu evento:  '% s'.
+ %s  inscreveu como \"promoter\" do seu evento: '%s'.
 
 Amigo da Cultura
 www.amigodacultura.com.br" , 
-	 'event_manager:event:registration:notification:user:text:html:event_presenting'  =>  "Olá % s, 
+	 'event_manager:event:registration:notification:user:text:html:event_exhibiting'  =>  "Olá %s, 
 
-Você inscreveu-se com sucesso como 'fã' do evento: '% s'.
-
-Amigo da Cultura
-www.amigodacultura.com.br" , 
-	 'event_manager:event:registration:notification:user:text:event_presenting'  =>  "Olá % s,
-
-Você inscreveu-se com sucesso como 'fã' do evento: '% s'.
+Você inscreveu-se com sucesso como \"promoter\" do evento: '%s'.
 
 Amigo da Cultura
 www.amigodacultura.com.br" , 
-	 'event_manager:event:registration:notification:owner:text:html:event_interested'  =>  "Olá % s, 
+	 'event_manager:event:registration:notification:user:text:event_exhibiting'  =>  "Olá %s, 
 
-s%  inscreveu-se como \"interessado\" pelo seu evento:  '% s'.
-
-Amigo da Cultura
-www.amigodacultura.com.br" , 
-	 'event_manager:event:registration:notification:owner:text:event_interested'  =>  "Olá % s, 
-
-s% inscreveu-se como \"interessado\" pelo seu evento:  '% s'.
+Você inscreveu-se com sucesso como \"promoter\" do evento: '%s'.
 
 Amigo da Cultura
 www.amigodacultura.com.br" , 
-	 'event_manager:event:registration:notification:user:text:html:event_interested'  =>  "Olá % s, 
+	 'event_manager:event:registration:notification:owner:text:html:event_organizing'  =>  "Olá %s, 
 
-Você inscreveu-se com sucesso como \"interessado\" pelo evento:  '% s'.
-
-Amigo da Cultura
-www.amigodacultura.com.br" , 
-	 'event_manager:event:registration:notification:user:text:event_interested'  =>  "Olá % s, 
-
-Você inscreveu-se com sucesso como  \"interessado\" pelo evento: '% s'.
+s% se inscreveu como \"produtor\" do evento: '%s'.
 
 Amigo da Cultura
 www.amigodacultura.com.br" , 
-	 'event_manager:event:registration:notification:owner:text:html:event_undo'  =>  "Olá % s, 
+	 'event_manager:event:registration:notification:owner:text:event_organizing'  =>  "Olá %s, 
 
-% s saiu do seu evento: '% s'.
+s% se inscreveu como \"produtor\" do seu evento: '%s'.
+
+Amigo da Cultura
+www.amigodacultura.com.br" , 
+	 'event_manager:event:registration:notification:user:text:html:event_organizing'  =>  "Olá %s, 
+
+Você inscreveu-se com sucesso como \"produtor\" do evento: '%s'.
+
+Amigo da Cultura
+www.amigodacultura.com.br" , 
+	 'event_manager:event:registration:notification:user:text:event_organizing'  =>  "Olá %s, 
+
+Você inscreveu-se com sucesso como \"produtor\" do evento: '%s'.
+
+Amigo da Cultura
+www.amigodacultura.com.br" , 
+	 'event_manager:event:registration:notification:owner:text:html:event_presenting'  =>  "Olá %s, 
+
+%s inscreveu-se como 'fã' do seu evento: '%s'.
+
+Amigo da Cultura
+www.amigodacultura.com.br" , 
+	 'event_manager:event:registration:notification:owner:text:event_presenting'  =>  "Olá %s, 
+
+%s inscreveu-se como 'fã' do seu evento:  '%s'.
+
+Amigo da Cultura
+www.amigodacultura.com.br" , 
+	 'event_manager:event:registration:notification:user:text:html:event_presenting'  =>  "Olá %s, 
+
+Você inscreveu-se com sucesso como 'fã' do evento: '%s'.
+
+Amigo da Cultura
+www.amigodacultura.com.br" , 
+	 'event_manager:event:registration:notification:user:text:event_presenting'  =>  "Olá %s,
+
+Você inscreveu-se com sucesso como 'fã' do evento: '%s'.
+
+Amigo da Cultura
+www.amigodacultura.com.br" , 
+	 'event_manager:event:registration:notification:owner:text:html:event_interested'  =>  "Olá %s, 
+
+s%  inscreveu-se como \"interessado\" pelo seu evento:  '%s'.
+
+Amigo da Cultura
+www.amigodacultura.com.br" , 
+	 'event_manager:event:registration:notification:owner:text:event_interested'  =>  "Olá %s, 
+
+s% inscreveu-se como \"interessado\" pelo seu evento:  '%s'.
+
+Amigo da Cultura
+www.amigodacultura.com.br" , 
+	 'event_manager:event:registration:notification:user:text:html:event_interested'  =>  "Olá %s, 
+
+Você inscreveu-se com sucesso como \"interessado\" pelo evento:  '%s'.
+
+Amigo da Cultura
+www.amigodacultura.com.br" , 
+	 'event_manager:event:registration:notification:user:text:event_interested'  =>  "Olá %s, 
+
+Você inscreveu-se com sucesso como  \"interessado\" pelo evento: '%s'.
+
+Amigo da Cultura
+www.amigodacultura.com.br" , 
+	 'event_manager:event:registration:notification:owner:text:html:event_undo'  =>  "Olá %s, 
+
+%s saiu do seu evento: '%s'.
 Amigo da Cultura
 www.amigodacultura.com.br
 " , 
-	 'event_manager:event:registration:notification:owner:text:event_undo'  =>  "Olá % s, 
+	 'event_manager:event:registration:notification:owner:text:event_undo'  =>  "Olá %s, 
 
-% s desistiu do evento: '% s'.
-
-Amigo da Cultura
-www.amigodacultura.com.br" , 
-	 'event_manager:event:registration:notification:user:text:html:event_undo'  =>  "Olá % s, 
-Você desistiu do evento: '% s' com sucesso." , 
-	 'event_manager:event:registration:notification:user:text:event_undo'  =>  "Olá % s, 
-
-Você desistiu do evento: '% s' com sucesso.
+%s desistiu do evento: '%s'.
 
 Amigo da Cultura
 www.amigodacultura.com.br" , 
-	 'event_manager:event:registration:notification:user:text:html:event_spotfree'  =>  "Olá % s,
+	 'event_manager:event:registration:notification:user:text:html:event_undo'  =>  "Olá %s, 
+Você desistiu do evento: '%s' com sucesso." , 
+	 'event_manager:event:registration:notification:user:text:event_undo'  =>  "Olá %s, 
 
-Alguém desistiu do evento: '% s'. Você gostaria de ser movido para a lista de espera.
+Você desistiu do evento: '%s' com sucesso.
 
 Amigo da Cultura
 www.amigodacultura.com.br" , 
-	 'event_manager:event:registration:notification:user:text:event_spotfree'  =>  "Olá % s,
+	 'event_manager:event:registration:notification:user:text:html:event_spotfree'  =>  "Olá %s,
 
-Alguém desistiu do evento: '% s'. Você gostaria de ser movido para a lista de espera.
+Alguém desistiu do evento: '%s'. Você gostaria de ser movido para a lista de espera.
+
+Amigo da Cultura
+www.amigodacultura.com.br" , 
+	 'event_manager:event:registration:notification:user:text:event_spotfree'  =>  "Olá %s,
+
+Alguém desistiu do evento: '%s'. Você gostaria de ser movido para a lista de espera.
 
 Amigo da Cultura
 www.amigodacultura.com.br" , 
