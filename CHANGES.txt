@@ -1,5 +1,11 @@
 = Version history =
 
+x.x:
+
+- added: export waitinglist
+- fixed: bug in expanding max attendees
+- fixed: wrong image url in attendee listing
+
 2.3 (2012-10-31):
 
 - added: 4 new event fields (website, contact details, fee and twitter hash)
